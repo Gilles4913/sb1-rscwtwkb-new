@@ -59,7 +59,7 @@ export default function Sport() {
             </div>
             <div>
               <img
-                src="https://res.cloudinary.com/dfvwgjdsj/image/upload/v1745825442/A2Display_-_affichage_Duynamique_-_Sport_-_Panneau_LED_bord_de_terrain_owm2lm.png"
+                src="https://cdn.jsdelivr.net/gh/Gilles4913/a2display-images/A2Display-mockup_panneau_led_sport_t7v2jd.webp"
                 alt="Panneau LED dans un stade"
                 className="rounded-lg shadow-xl"
               />
